@@ -234,9 +234,7 @@ public class Exercises {
 		}
 			return sum==8;
 		}
-			
-			
-}
+	}
 
 	
 		
